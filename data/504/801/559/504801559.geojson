@@ -1,0 +1,52 @@
+{
+  "id": 504801559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"AT",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85681681,
+        102191581,
+        85632785,
+        101789115,
+        102049753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"28996667"
+    },
+    "wof:country":"AT",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049753,
+            "locality_id":101789115,
+            "postalcode_id":504801559,
+            "region_id":85681681
+        }
+    ],
+    "wof:id":504801559,
+    "wof:lastmodified":1459992442,
+    "wof:name":"9027",
+    "wof:parent_id":"101789115",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
