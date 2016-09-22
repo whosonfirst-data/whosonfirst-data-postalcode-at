@@ -24,6 +24,7 @@
     "iso:country":"AT",
     "lbl:latitude":48.619308,
     "lbl:longitude":14.478464,
+    "mz:hierarchy_label":1,
     "src:geom":"atgov",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -37,7 +38,7 @@
         "gp:id":"12815884"
     },
     "wof:country":"AT",
-    "wof:geomhash":"fdd3091d0a2eb977c91a86f85c0d32bd",
+    "wof:geomhash":"98268a99b63defcdcac2cda9e84c8650",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":504797645,
-    "wof:lastmodified":1462824153,
+    "wof:lastmodified":1474565288,
     "wof:name":"4262",
     "wof:parent_id":102049883,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-at",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
