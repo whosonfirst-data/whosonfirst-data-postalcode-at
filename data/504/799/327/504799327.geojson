@@ -21,6 +21,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002085,
+    "geom:area_square_m":17523903.775838,
     "geom:bbox":"16.0504833069,47.1590253424,16.1315809242,47.2037332805",
     "geom:latitude":47.180179,
     "geom:longitude":16.088135,
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         102191581,
         85632785,
-        85681651,
-        102049729
+        85681687,
+        102049759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85632785,
-            "county_id":102049729,
+            "county_id":102049759,
             "postalcode_id":504799327,
-            "region_id":85681651
+            "region_id":85681687
         }
     ],
     "wof:id":504799327,
-    "wof:lastmodified":1474565336,
+    "wof:lastmodified":1480891830,
     "wof:name":"8292",
-    "wof:parent_id":102049729,
+    "wof:parent_id":102049759,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-at",
     "wof:superseded_by":[],

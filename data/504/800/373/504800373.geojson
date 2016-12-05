@@ -17,6 +17,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006179,
+    "geom:area_square_m":51783743.475168,
     "geom:bbox":"11.4224805897,47.2852554799,11.5679335915,47.368211524",
     "geom:latitude":47.334982,
     "geom:longitude":11.498456,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":504800373,
-    "wof:lastmodified":1474565362,
+    "wof:lastmodified":1480884276,
     "wof:name":"6067",
     "wof:parent_id":102049735,
     "wof:placetype":"postalcode",

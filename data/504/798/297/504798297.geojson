@@ -17,6 +17,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000766,
+    "geom:area_square_m":6376899.257636,
     "geom:bbox":"13.0835040031,47.6894186621,13.1362505791,47.7238409947",
     "geom:latitude":47.706316,
     "geom:longitude":13.108939,
@@ -28,9 +29,10 @@
     "src:geom":"atgov",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85681681,
         102191581,
         85632785,
-        85681681,
+        101874009,
         102049773
     ],
     "wof:breaches":[],
@@ -44,14 +46,15 @@
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049773,
+            "locality_id":101874009,
             "postalcode_id":504798297,
             "region_id":85681681
         }
     ],
     "wof:id":504798297,
-    "wof:lastmodified":1474565309,
+    "wof:lastmodified":1480843900,
     "wof:name":"5411",
-    "wof:parent_id":102049773,
+    "wof:parent_id":101874009,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-at",
     "wof:superseded_by":[],

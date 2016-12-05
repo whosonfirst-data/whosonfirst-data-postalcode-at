@@ -17,6 +17,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012318,
+    "geom:area_square_m":103566646.945224,
     "geom:bbox":"13.0202164379,47.0853131054,13.167600439,47.2359595821",
     "geom:latitude":47.159915,
     "geom:longitude":13.090176,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":504800313,
-    "wof:lastmodified":1474565360,
+    "wof:lastmodified":1480899455,
     "wof:name":"5630",
     "wof:parent_id":102049753,
     "wof:placetype":"postalcode",

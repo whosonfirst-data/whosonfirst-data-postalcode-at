@@ -17,6 +17,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001311,
+    "geom:area_square_m":11043850.054651,
     "geom:bbox":"15.4980496243,47.0385395067,15.5563930881,47.0792450444",
     "geom:latitude":47.059826,
     "geom:longitude":15.52448,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":504800805,
-    "wof:lastmodified":1474565374,
+    "wof:lastmodified":1480902861,
     "wof:name":"8075",
     "wof:parent_id":102049741,
     "wof:placetype":"postalcode",
