@@ -1,0 +1,4 @@
+*.geojson text eol=lf
+meta/*-latest.csv filter=lfs diff=lfs merge=lfs -text
+meta/wof-postalcode-at-concordances-latest.csv filter=lfs diff=lfs merge=lfs -text
+meta/wof-postalcode-at-latest.csv filter=lfs diff=lfs merge=lfs -text
