@@ -29,9 +29,10 @@
     "src:geom":"atgov",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        102191581,
-        85632785,
         85681677,
+        102191581,
+        1108836091,
+        85632785,
         102049819
     ],
     "wof:breaches":[],
@@ -39,20 +40,21 @@
         "gp:id":"12815966"
     },
     "wof:country":"AT",
-    "wof:geomhash":"3ffeb4b691357897d57a0d94d931b569",
+    "wof:geomhash":"1f438156d761851826cf7b322b31f755",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049819,
+            "localadmin_id":1108836091,
             "postalcode_id":504797785,
             "region_id":85681677
         }
     ],
     "wof:id":504797785,
-    "wof:lastmodified":1480884372,
+    "wof:lastmodified":1496611275,
     "wof:name":"4541",
-    "wof:parent_id":102049819,
+    "wof:parent_id":1108836091,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-at",
     "wof:superseded_by":[],

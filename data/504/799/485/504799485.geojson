@@ -31,6 +31,7 @@
     "wof:belongsto":[
         85681687,
         102191581,
+        1108839275,
         85632785,
         101788967,
         102049691
@@ -40,19 +41,20 @@
         "gp:id":"12816953"
     },
     "wof:country":"AT",
-    "wof:geomhash":"a2b37d74a781d217d61cfc71878ac5e9",
+    "wof:geomhash":"f96d91200e9748470608f3935b9b038b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049691,
+            "localadmin_id":1108839275,
             "locality_id":101788967,
             "postalcode_id":504799485,
             "region_id":85681687
         }
     ],
     "wof:id":504799485,
-    "wof:lastmodified":1480887003,
+    "wof:lastmodified":1496620243,
     "wof:name":"8510",
     "wof:parent_id":101788967,
     "wof:placetype":"postalcode",

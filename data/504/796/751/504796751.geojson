@@ -31,6 +31,7 @@
     "wof:belongsto":[
         85681671,
         102191581,
+        1108835321,
         85632785,
         101833181,
         102049829
@@ -40,19 +41,20 @@
         "gp:id":"12815336"
     },
     "wof:country":"AT",
-    "wof:geomhash":"881070baea16d7a676a3078427c9d126",
+    "wof:geomhash":"2f4f6c89a4447729401c4b74fc3a1422",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049829,
+            "localadmin_id":1108835321,
             "locality_id":101833181,
             "postalcode_id":504796751,
             "region_id":85681671
         }
     ],
     "wof:id":504796751,
-    "wof:lastmodified":1480879778,
+    "wof:lastmodified":1496608732,
     "wof:name":"2500",
     "wof:parent_id":101833181,
     "wof:placetype":"postalcode",
